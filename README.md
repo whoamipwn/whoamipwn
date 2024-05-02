@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
  [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Blog](  https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() [![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() [![Blog](  https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()  [![Blog](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()  [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=robson123321&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=robson123321&cover_image=true&theme=natemoo-re&show_offline=false&background_color=5e5c64&interchange=false&bar_color=613583&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
  
 <div>
   
