@@ -14,10 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c2pgk5xrk6w2uuplzmwmg7pm7y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=241f31&interchange=true&bar_color=77767b&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=whoamipwn&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 ## 🔥 Skills
