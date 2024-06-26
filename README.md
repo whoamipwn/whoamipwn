@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
  [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() [![Blog](  https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() [![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() [![Blog](  https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()  [![Blog](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()  [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31c2pgk5xrk6w2uuplzmwmg7pm7y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=241f31&interchange=true&bar_color=77767b&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c2pgk5xrk6w2uuplzmwmg7pm7y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
