@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @whoamipwn
-- 👀 I’m interested in information security...
-- 🌱 I’m currently learning SOC | Pentest | information security...
+- 👀 I’m interested in Cyber Security Analyst...
+- 🌱 I’m currently learning information security...
 - 📫 How to reach me telegram: @Dracoonm
 
 <!---
@@ -21,19 +21,24 @@ You can click the Preview link to take a look at your changes.
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://skillicons.dev/icons?i=c">
+    <img align="center" alt="HTML" height="30" width="40" src="https://skillicons.dev/icons?i=cpp">
+    <img align="center" alt="CSS" height="30" width="40" src="https://skillicons.dev/icons?i=py">
+    <img align="center" alt="Python" height="30" width="40" src="https://skillicons.dev/icons?i=js">
+    <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=go">
+   <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=html">
+   <img align="center" alt="C" height="30" width="40" src="https://skillicons.dev/icons?i=css">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">  
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img align="center" alt="VScode" height="30" width="40" src="https://skillicons.dev/icons?i=aws">
+    <img align="center" alt="AWS" height="30" width="40" src="https://skillicons.dev/icons?i=git">  
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://skillicons.dev/icons?i=selenium">
+    <img align="center" alt="Bash" height="30" width="40" src="https://skillicons.dev/icons?i=docker">
+   <img align="center" alt="Bash" height="30" width="40" src="https://skillicons.dev/icons?i=vscode"> 
+    <img align="center" alt="Bash" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
+    <img align="center" alt="Bash" height="30" width="40" src="https://skillicons.dev/icons?i=stackoverflow">
   </div>
   
